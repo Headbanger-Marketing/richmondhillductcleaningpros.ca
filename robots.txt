@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://richmondhillductcleaningpros.ca/sitemap-index.xml
